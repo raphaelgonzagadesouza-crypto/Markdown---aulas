@@ -1,7 +1,6 @@
 # Guia Sinistra
 
-### como fazer um guia
+### Configuração de Software
 
-&nbsp; nasça gostoso
-
+#### Administração de Sistemas Operacionais
 
