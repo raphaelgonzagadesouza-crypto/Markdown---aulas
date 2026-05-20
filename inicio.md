@@ -1,4 +1,4 @@
-# Guia meunome
+# Guia Sinistra
 
 ### como fazer um guia
 
