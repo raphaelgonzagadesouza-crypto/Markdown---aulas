@@ -16,8 +16,5 @@
 
 > ## Informações Complementares
 
-<<img width="550" height="426" alt="cage-bunny" src="https://github.com/user-attachments/assets/92d1099e-d0e4-4dbb-a8d8-d8e5552420e7" />
+<img width="550" height="426" alt="cage-bunny" src="https://github.com/user-attachments/assets/92d1099e-d0e4-4dbb-a8d8-d8e5552420e7" />
 
-[clique aqui e receba robux](#Linux)
-
-[clique aqui e morra](#Windows)
